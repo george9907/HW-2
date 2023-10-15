@@ -168,7 +168,7 @@ letter-spacing: 0.02em;
 /* team */
 
 .team {
-    background:#F4F4FD;
+background:#F4F4FD;
 }
 
 .team-header {
@@ -192,10 +192,12 @@ text-transform: capitalize;
  background-color: #FFFFFF
 }
 
-.container {}
+.container {
+background-color: #FFFFFF
+}
 
 .team-member-name {
-color:#2E2F42;
+color: #2E2F42;
 font-family: Roboto;
 font-size: 20px;
 font-style: normal;
@@ -205,13 +207,13 @@ letter-spacing: 0.02em;
 }
 
 .team-member-job {
-color:#434455;
-font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /* Portfolio */
@@ -219,7 +221,7 @@ letter-spacing: 0.02em;
 .all-pages {}
 
 .portfolio-header {
-color: var(--NAVY-BLUE, #2E2F42);
+color: #2E2F42;
 text-align: center;
 font-family: Roboto;
 font-size: 36px;
