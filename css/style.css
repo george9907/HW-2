@@ -85,7 +85,7 @@ font-style: normal
 
 .header-contact-item {}
 
-.header-mail, .header-tel {
+.header-contact {
 color: #434455;
 font-family: Roboto;
 font-size: 16px;
@@ -95,10 +95,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.header-mail:hover,
-.header-tel:hover,
-.header-mail:focus,
-.header-tel:focus {
+.header-contact:hover,
+.header-contact:focus {
 color: #404BBF;
 }
 
