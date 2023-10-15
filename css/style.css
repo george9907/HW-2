@@ -183,9 +183,11 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.team-list,
+.team-list{}
+
+
 .team-member {
-    
+background-color: #FFFFFF
 }
 
 .card {
